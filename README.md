@@ -9,5 +9,5 @@
 5. scrapy crawl politician
 ```
 # Info:
-|After succefully finish the program is going to create **Politicians.db**  and **data.json** and all scraped data from the website is going be stored in **Politicians.db** and **data.json** |
+|After successfully finish the program is going to create **Politicians.db**  and **data.json** and all scraped data from the website is going be stored in **Politicians.db** and **data.json** |
 | ------------- |
